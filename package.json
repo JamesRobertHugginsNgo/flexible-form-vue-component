@@ -1,7 +1,7 @@
 {
-  "name": "web-app-template",
-  "version": "2.4.0",
-  "description": "Template for web app development.",
+  "name": "flexible-form-vue-component",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
